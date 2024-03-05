@@ -10,6 +10,6 @@ _TBA_
 
 _TBA_
 
-## Contribution
+## :handshake: Contribution
 
 _TBA_
