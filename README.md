@@ -6,10 +6,14 @@ _Streamline your testing suite by converging all tests into a cloud-powered exec
 
 _TBA_
 
-## How to use
+## :artificial_satellite: Setting up
 
 _TBA_
 
-## :handshake: Contribution
+## :test_tube: Run
+
+_TBA_
+
+## :handshake: Contribute
 
 _TBA_
