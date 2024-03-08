@@ -1,6 +1,6 @@
 # hypertest
 
-_Revolutionary **plug-and-play** TypeScript library that transforms testing efficiency. Seamlessly integrating into your suite, it distributes tests across cloud executions, reducing runtime to only your slowest test's duration. Exceptionally affordable, it's the cost-effective solution for accelerating development with minimal expense._
+_Revolutionize your testing with our **plug-and-play** TypeScript library. Effortlessly integrates, distributing tests in the cloud to **cut runtime to just your slowest test**. Exceptionally affordable for fast, cost-effective development._
 
 ## :scroll: Project structure
 
