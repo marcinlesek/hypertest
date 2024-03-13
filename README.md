@@ -1,4 +1,4 @@
-# hypertest
+# hypertest.
 
 _Revolutionize your testing with our **plug-and-play** TypeScript library. Effortlessly integrates, distributing tests in the cloud to **cut runtime to just your slowest test**. Exceptionally affordable for fast, cost-effective development._
 
