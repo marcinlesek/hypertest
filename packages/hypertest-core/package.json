@@ -1,0 +1,16 @@
+{
+  "name": "@hypertest/hypertest-core",
+  "version": "0.0.1",
+  "type": "module",
+  "exports": {
+    ".": "./dist/index.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "node ./src/index.js"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  }
+}

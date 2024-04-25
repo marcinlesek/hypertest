@@ -1,0 +1,17 @@
+{
+  "name": "@hypertest/hypertest-plugin-cypress",
+  "version": "0.0.1",
+  "type": "module",
+  "exports": {
+    ".": "./dist/index.js"
+  },
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {
+    "@hypertest/hypertest-core": "0.x.x"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  }
+}

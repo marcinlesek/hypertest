@@ -7,14 +7,19 @@ _Revolutionize your testing with our **plug-and-play** TypeScript library. Effor
 
 ## :scroll: Project structure
 
-- `core` - TBA
-- `plugin-*` - TBA
-- `provider-*` - TBA
-- `runner-*` - TBA
+- `hypertest-core` - library core
+- `hypertest-plugin-cypress` - core plugin for Cypress integration
+- `hypertest-runner-cypress` - Cypress test runner
+- `hypertest-playground` - playground
 
 ## :artificial_satellite: Setting up
 
-_TBA_
+```
+npm i
+npm run build -w packages
+npm run start:runner -w packages/hypertest-playground
+npm run start:core -w packages/hypertest-playground
+```
 
 ## :test_tube: Run
 
