@@ -10,7 +10,7 @@ _Revolutionize your testing with our **plug-and-play** TypeScript library. Effor
 - `hypertest-core` - library core
 - `hypertest-plugin-cypress` - core plugin for Cypress integration
 - `hypertest-runner-cypress` - Cypress test runner
-- `hypertest-playground` - playground
+- `hypertest-playground` - Playground to test all packages together
 
 ## :artificial_satellite: Setting up
 
